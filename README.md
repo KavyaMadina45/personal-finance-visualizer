@@ -1,3 +1,35 @@
+# 📊 Personal Finance Tracker
+
+A **Next.js** web application to track personal finances, manage expenses, and analyze spending habits efficiently.
+
+## 🚀 Features
+- 📈 Track income & expenses
+- 📊 Visual representation of spending
+- 🔍 Search & filter transactions
+- 🔒 Secure user authentication (Login & Register)
+- 📱 Fully responsive design
+
+## 🛠 Tech Stack
+- **Frontend:** Next.js, React, TypeScript
+- **Styling:** Tailwind CSS
+- **State Management:** React Hooks (`useState`, `useEffect`)
+- **Authentication:** NextAuth.js (Optional)
+- **Deployment:** Vercel
+
+## 🔧 Installation & Setup
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/KavyaMadina45/your-repository-name.git
+   cd your-repository-name
+  # install dependencies
+npm install
+# run the server
+npm run dev
+#open in browser
+Open http://localhost:3000 in your browser.
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
